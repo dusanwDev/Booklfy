@@ -1,0 +1,171 @@
+[
+  {
+    "id": "new-headlines",
+    "title": "The Glass Hotel",
+    "writer": "Emily St.John Mandel",
+    "about": "You may be wondering if The Glass Hotel is anything like Emily St John Mandel's previous novel Station Eleven? The answer is no. AND yes. Don't get me wrong, ...",
+    "img": { "src": "./slike/new-headlines 2.jpg", "alt": "The Glass Hotel" }
+  },
+  {
+    "id": "new-headlines",
+    "title": "The Vanishing Half",
+    "writer": "Brit Bennet",
+    "about": " Brit Bennett's intriguing new novel, The Vanishing Half, amplifies the trope of the “tragic mulatto” (a self-loathing mixed-race American) by sharing ...",
+    "img": { "src": "./slike/new-headlines 3.jpg", "alt": "The Vanishing Half" }
+  },
+  {
+    "id": "new-headlines",
+    "title": "The Mirror And The Light",
+    "writer": "Hilary Mantel",
+    "about": "With The Mirror & the Light, Hilary Mantel brings to a triumphant close the trilogy she began with her peerless, Booker Prize-winning novels, Wolf Hall and Bring...",
+    "img": {
+      "src": "./slike/new-headlines 4.jpg",
+      "alt": "The Mirror And The Light"
+    }
+  },
+  {
+    "id": "new-headlines",
+    "title": "Uncanny Valley",
+    "writer": "Anna Viener",
+    "about": "The writing in this book is so good. It's funny, and it's incisive, and it really captures a specific time and place I usually avoid reading about tech, but the excerpt on...",
+    "img": { "src": "./slike/new-headlines 5.jpg", "alt": "Uncanny Valley" }
+  },
+  {
+    "id": "new-headlines",
+    "title": "The Luster",
+    "writer": "Raven Leilani",
+    "about": "In Luster, Raven Leilani has created a character unlike any other in recent fiction. A slacker black queen, a depressive painter, a damn funny woman. The narrator ...",
+    "img": { "src": "./slike/new-headlines 6.jpg", "alt": "The Luster" }
+  },
+  {
+    "id": "new-headlines",
+    "title": "Wow No Thank you",
+    "writer": "Samantha Irby",
+    "about": "Samantha Irby's Wow, No Thank You is a gift that everyone should give themselves and each other. She writes with such wisdom about our culture and such  ...",
+    "img": { "src": "./slike/new-headlines.jpg", "alt": "Wow No Thank You" }
+  },
+  {
+    "id": "politics",
+    "title": "What Should You Know About Politics But You Dont",
+    "writer": "Jessamyn Conrad",
+    "about": "It's an exciting time. America is in crisis, but change is within our power. The issues matter more than ever this election year.  red ...",
+    "img": {
+      "src": "./slike/Politics 1.jpg",
+      "alt": "What Should You Know About Politics But You Dont"
+    }
+  },
+  {
+    "id": "politics",
+    "title": "The Best And The Brightest",
+    "writer": "David Halberstam",
+    "about": "David Halberstam’s masterpiece, the defining history of the making of the Vietnam tragedy, with a new Foreword by Senator John McCain",
+    "img": {
+      "src": "./slike/Politics 2.jpg",
+      "alt": "The Best And The Brightest"
+    }
+  },
+  {
+    "id": "politics",
+    "title": "Team Of Rivals",
+    "writer": "Doris Kearens Goodwin",
+    "about": "Winner of the Lincoln Prize Acclaimed historian Doris Kearns Goodwin illuminates Lincoln's political genius in this highly original work, as the ...",
+    "img": { "src": "./slike/Politics 3.jpg", "alt": "Team Of Rivals" }
+  },
+  {
+    "id": "politics",
+    "title": "American Nations",
+    "writer": "Colin Woodard",
+    "about": "According to award-winning journalist and historian Colin Woodard, North America is made up of eleven distinct nations, each with its own unique historical roots ...",
+    "img": { "src": "./slike/Politics 4.jpg", "alt": "American Nations" }
+  },
+  {
+    "id": "drama",
+    "title": "Every Last Secret",
+    "writer": "A.R. Torre",
+    "about": "Every Last Secret is an entertaining psychological thriller about two women who go head-to-head over a married man. The other woman will do...",
+    "img": { "src": "./slike/drama 1.jpg", "alt": "Every Last Secret" }
+  },
+  {
+    "id": "drama",
+    "title": "Litle Fires Everywhere",
+    "writer": "Celeste NG",
+    "about": "Little Fires Everywhere is a 2017 novel by American author Celeste Ng. It is her second novel and takes place in Shaker Heights, Ohio, where Ng grew up.",
+    "img": { "src": "./slike/drama 2.jpg", "alt": "Litle Fires Everywhere" }
+  },
+  {
+    "id": "drama",
+    "title": "If You Tell",
+    "writer": "Gregg Olsen",
+    "about": "If You Tell: A True Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood - Kindle edition by Olsen, Gregg. Download it once and read it on...",
+    "img": { "src": "./slike/drama 3.jpg", "alt": "If You Tell" }
+  },
+  {
+    "id": "drama",
+    "title": "The Return",
+    "writer": "Nicholas Sparks",
+    "raiting": 1,
+    "about": "With over 100 million copies of his books sold, Nicholas Sparks is one of the world's most beloved storytellers. His novels include sixteen #1 ...",
+    "img": { "src": "./slike/drama 4.jpg", "alt": "The Return" }
+  },
+  {
+    "id": "history",
+    "title": "Genghis Khan and the making of the modern world",
+    "writer": "Jack Wheatheford",
+    "about": "Genghis Khan and the Making of the Modern World (2004) is a history book written by Jack Weatherford, Dewitt Wallace Professor of Anthropology at Macalester...",
+    "img": { "src": "./slike/history 1.jpg", "alt": "Genghis Khan" }
+  },
+  {
+    "id": "history",
+    "title": "Embers Of War",
+    "writer": "Fredrik Logevall",
+    "about": "An epic story of wasted opportunities and deadly miscalculations, Embers of War delves deep into the historical record to provide hard answers to the unanswered ...",
+    "img": { "src": "./slike/history 2.jpg", "alt": "Embers Of War" }
+  },
+  {
+    "id": "history",
+    "title": "Rites Of Spring",
+    "writer": "Modris Eksteins",
+    "raiting": 2,
+
+    "about": "Eksteins' Rites of Spring, on the other hand, it's the chronicle of a difficult birth, the birth of an epoch. What I have said doesn't mean that one book is better than the ...",
+    "img": { "src": "./slike/history 3.jpg", "alt": "Rites Of Spring" }
+  },
+  {
+    "id": "history",
+    "title": "The History of the ancient world",
+    "writer": "Susan Wise Bauer",
+    "about": "From Publishers Weekly. Bauer (author of the four-volume The Story of the World: History for the Classical Child) guides readers on a fast-paced ...",
+    "img": { "src": "./slike/history 4.jpg", "alt": "Susan Wise Bauer" }
+  },
+  {
+    "id": "business",
+    "title": "Business Adventures",
+    "writer": "John Brooks",
+    "raiting": 3,
+    "about": "This business classic written by longtime New Yorker contributor John Brooks is an insightful and engaging look into corporate and financial life in America...",
+    "img": { "src": "./slike/business 1.jpg", "alt": "Business Adventures" }
+  },
+  {
+    "id": "business",
+    "title": "Inovators Dilema",
+    "writer": "Clayton M. Crhistensen",
+    "about": "This business classic written by longtime New Yorker contributor John Brooks is an insightful and engaging look into corporate and financial life in America...",
+    "raiting": 4,
+
+    "img": { "src": "./slike/business 2.jpg", "alt": "Inovators Dilema" }
+  },
+  {
+    "id": "business",
+    "title": "Blue Ocean Strategy",
+    "writer": "W. Chan Kim | Renee Mauborgne",
+    "about": "Blue ocean strategy is the simultaneous pursuit of differentiation and low cost to open up a new market space and create new demand. It is about creating and...",
+    "img": { "src": "./slike/business 3.jpg", "alt": "Blue Ocean Strategy" }
+  },
+  {
+    "id": "business",
+    "title": "Bad Blood",
+    "writer": "John Carreyrou",
+    "about": "In Bad Blood, acclaimed investigative journalist John Carreyrou, who broke the story in 2015, presents comprehensive evidence of the fraud perpetrated by..",
+    "img": { "src": "./slike/business 4.jpg", "alt": "Blue Ocean Strategy" }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Owner",
+    "name": "Jenifer Aniston",
+    "img": { "src": "./slike/face 1.jpg", "alt": "face one" }
+  },
+  {
+    "title": "Sales Chief",
+    "name": "Nicole Kidman",
+    "img": { "src": "./slike/face 2.jpg", "alt": "face two" }
+  },
+  {
+    "title": "Web Developer",
+    "name": "Svetlana Nikolić",
+    "img": { "src": "./slike/face 3.jpg", "alt": "face three" }
+  },
+  {
+    "title": "Owner and Founder",
+    "name": "Anna Katlin",
+    "img": { "src": "./slike/face 4.jpg", "alt": "face four" }
+  }
+]

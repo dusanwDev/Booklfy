@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Booklfy</title>
+    <link rel="shortcut icon" href="./slike/book.png" type="image/x-icon" />
+    <link rel="stylesheet" href="./glider.min.css">
+    <link rel="stylesheet" href="./style.css" />
+    <script
+      src="https://kit.fontawesome.com/c81f9c71f2.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <header class="header" id="header">
+      <h1>Booklfy.</h1>
+      <nav>
+        <ul>
+          <li> <a href="#new-headlines">New Headlines</a> </li>
+          <li> <a href="#every-book">Every Book</a> </li>
+          <li> <a href="#coming-soon">Coming Soon</a> </li>
+        </ul>
+          <a href="JavaScript:void(0)" class="cart" id="cart"><i class="fas fa-shopping-cart"></i></a>
+          <a href="JavaScript:void(0)" class="hamburger" id="hamburger"><i class="fas fa-bars"></i></a>
+      </nav>
+    </header>
+    <aside class="menu aside">
+      <header><h1>Menu</h1>
+             <button class="close"><i class="fas fa-times"></i></button>      
+      </header>
+        <ul>
+          <li> <a class="nav-menu-link" href="#new-headlines">New Headlines</a> </li>
+          <li> <a class="nav-menu-link" href="#every-book">Every Book</a> </li>
+          <li> <a class="nav-menu-link" href="#coming-soon">Coming Soon</a> </li>
+          <li> <a class="nav-menu-link" href="#discount">Discount</a> </li>
+          <li> <a class="nav-menu-link" href="#team">Team</a> </li>
+          <li> <a class="nav-menu-link" href="#blogly">Blogly</a> </li>
+        </ul>
+    </aside>
+<aside class="que aside">
+      <header><h1>Your Que</h1>
+             <button class="close"><i class="fas fa-times"></i></button>      
+      </header>
+      <div class="que-items-container">
+
+      </div>
+</aside>
+    <section class="video-section">
+      <div class="overlay">
+        <div class="video-container">
+          <video
+            src="./slike/video.mp4"
+            muted="true"
+            autoplay="true"
+            loop="true"
+          ></video>
+        </div>
+        <div class="video-content-wrapper">
+          <div class="video-content-container">
+          <h1>Search your favorite books</h1>
+          <div class="search-input">
+            <input type="text" name="" id="search" autocomplete="off" />
+            <i class="fas fa-search"></i>
+          </div>
+          <div class="search-item-wrapper">
+            
+        </div>
+      </div>
+      </div>
+    </section>
+    <!-- NEW HEADLINES-------------------------------------------- -->
+    <main id="main">
+      <div id="found-book-wrapper">
+        <header>
+          <h1>Searched Books</h1>
+        </header>
+        <div class="found-books-container"></div>
+      </div>
+    <section class="new-headlines" id="new-headlines">
+      <header>
+        <h1>New Headlines</h1>
+      </header>
+      <div class="glider-contain">
+        <div class="glider">
+        </div>
+        <button class="glider-next"><i class="fas fa-chevron-right"></i></button>
+        <button class="glider-prev"><i class="fas fa-chevron-left"></i></button>
+      </div>
+    </section>
+<!-- EVERY BOOK ---------------------------------------------------------->
+<section class="every-book-section" id="every-book">
+  
+  <header class="every-book-section-header">
+    <h1>Every Book</h1>
+  </header>
+  <div class="every-book-wrapper">
+  <section class="left">
+  <header><h1>Top Book</h1></header>
+  <div class="top-books">
+
+  </div>
+      <div class="top-writers">
+      <header><h1>Top Writers</h1></header>
+      <div class="top-writer-wrapper">
+      </div>
+    </div>
+
+  </section>
+  <section class="right">
+    <header>
+      <button class="button-genre active" id="politics" class="active" ><h1> Politics </h1></button>
+      <button class="button-genre" id="drama"><h1> Drama </h1></button>
+      <button class="button-genre" id="history"><h1> History </h1></button>
+      <button class="button-genre" id="business"><h1> Bussiness </h1></button>
+    </header>
+    <div class="every-books-container">
+    </div>
+  </section>
+  </div>
+</section>
+<section class="coming-soon-section" id="coming-soon">
+  <header>
+    <h1>Coming Soon</h1>
+  </header>
+  <div class="coming-soon-wrapper">
+  <div class="coming-soon one">
+    <div class="coming-soon-overlay">
+      <i class="fas fa-lock"></i>
+      <h1 class="countdown">16D:32h:50min:15s</h1>
+    </div>
+  </div>
+      <div class="coming-soon two">
+    <div class="coming-soon-overlay">
+      <i class="fas fa-lock"></i>
+      <h1 class="countdown">16D:32h:50min:15s</h1>
+    </div>
+  </div>  <div class="coming-soon three">
+    <div class="coming-soon-overlay">
+      <i class="fas fa-lock"></i>
+      <h1 class="countdown">16D:32h:50min:15s</h1>
+    </div>
+  </div>  <div class="coming-soon four">
+    <div class="coming-soon-overlay">
+      <i class="fas fa-lock"></i>
+      <h1 class="countdown">16D:32h:50min:15s</h1>
+    </div>
+  </div>
+  </div>
+</section>
+<section class="discount-section" id="discount">
+  <header>
+    <h1>Discount</h1>
+  </header>
+  <div class="discount-section-content">
+  <div class="new-member">
+    <div class="new-member-overlay">
+      <div class="new-member-content">
+        <h1>Become a member</h1>
+      </div>
+    </div>
+  </div>
+      <div class="student-and-unemployed">
+      <div class="student">
+        <div class="student-overlay">
+          <div class="student-content">
+            <h1>Discount for elderly up to 50%</h1>
+          </div>
+        </div>
+      </div>
+      <div class="unemployed">
+        <div class="unemployed-overlay">
+          <div class="unemployed-content">
+            <h1>Studen discounts up to 30%</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </section>
+  <section class="team-section" id="team" >
+    <header> <h1>Team</h1> </header>
+    <div class="team-container">
+    </div>
+  </section>
+  <section class="blogly-section" id="blogly"> 
+    <header>
+      <h1>Blogly</h1>
+    </header>
+    <div class="glider2">
+ 
+    </div>
+          <button class="glider-next2"><i class="fas fa-chevron-right"></i></button>
+        <button class="glider-prev2"><i class="fas fa-chevron-left"></i></button>
+
+  </section>
+</main>
+<footer>
+  <div class="footer-container">
+    <p>@2020 Dusan Nikolic All right reserved.
+This site is for NON-COMMERCIAL purpose ONLY.</p>
+  <div class="social">
+     <i class="fab fa-instagram"></i>
+     <i class="fab fa-facebook"></i>
+     <i class="fab fa-twitter"></i>
+  </div>
+  </div>
+</footer>
+<a href="#header" class="arrow-up"><i class="fas fa-arrow-up"></i></a>
+
+<div class="loader active">
+  <div class="spiner"></div>
+</div>
+
+<script src="./glider.min.js"></script>
+<script  src="./main.js"></script>
+
+  </body>
+</html>

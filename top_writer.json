@@ -1,0 +1,22 @@
+[
+  {
+    "writername": "Jessamyn Conrad",
+    "writerimg": { "src": "./slike/Jessie.png", "alt": "1" },
+    "raiting": 1
+  },
+  {
+    "writername": "David Halberstam",
+    "writerimg": { "src": "./slike//david.jpg", "alt": "2" },
+    "raiting": 2
+  },
+  {
+    "writername": "John Brooks",
+    "writerimg": { "src": "./slike/brooks.jpg", "alt": "3" },
+    "raiting": 3
+  },
+  {
+    "writername": "A.R Torre",
+    "writerimg": { "src": "./slike/torre.jpeg", "alt": "4" },
+    "raiting": 4
+  }
+]
